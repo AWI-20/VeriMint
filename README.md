@@ -27,10 +27,10 @@
   * NFT rights confirmation and certification: Make sure you get an NFT with the creator’s value embedded in it (such as IP, brand use authorization)
   * Copyright protection: Provide protection measures for creators’ value
   * Incentivize value creation: Creators focus more on creation itself, promoting high-quality, multi-form NFT creation
+ 
+### 5. Team Members
 
-### 5. Team
-
-Alex, Claudia, yixin
+Alex, Edward, Yixin
 
 ### 6. GitHub
 
